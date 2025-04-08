@@ -1,0 +1,24 @@
+# API Framework
+fastapi
+uvicorn
+pydantic
+
+# HTTP and Web Scraping
+requests
+beautifulsoup4
+
+# Vector Database
+pinecone-client
+
+# LLM and Embeddings
+langchain-core
+langchain-community
+langchain-groq
+langchain-mistralai
+
+# Environment and Utilities
+python-dotenv
+python-multipart
+
+# Optional - LangSmith for tracing
+langsmith
