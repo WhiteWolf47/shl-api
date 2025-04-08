@@ -8,7 +8,7 @@ requests
 beautifulsoup4
 
 # Vector Database
-pinecone-client
+pinecone
 
 # LLM and Embeddings
 langchain-core
