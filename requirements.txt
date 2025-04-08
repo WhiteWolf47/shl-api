@@ -20,5 +20,5 @@ langchain-mistralai
 python-dotenv
 python-multipart
 
-# Optional - LangSmith for tracing
+# LangSmith for tracing
 langsmith
